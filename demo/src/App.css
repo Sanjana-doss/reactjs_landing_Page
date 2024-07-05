@@ -1,0 +1,38 @@
+
+ .large-image {
+  width: 30%;
+  height: auto;
+  
+}
+.container-bg {
+  background-image: url('../public/Background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width:84%;
+  height:900px;
+  margin : 0 auto;
+  color: #242F65;
+  font-family: 'Fraunces', serif;
+  
+}
+.container-bg-f {
+  background-image: url('../public/footer.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height:700px;
+  color: #242F65;
+  font-family: 'Fraunces', serif;
+  
+}
+
+.icon {
+  width: 30px; 
+  height: 30px;
+  margin-left: 4%;
+}
+.f{
+  color: #242F65;
+  font-family: 'Fraunces', serif;
+}
